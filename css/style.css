@@ -1,0 +1,41 @@
+
+.center{
+    margin: 0 auto;
+    margin-left: 250px;
+    margin-right: 281px;
+    margin-top: 20px;
+}
+.contenedor{
+    width: auto;
+    border: 1px solid #cccccc;
+    display: inline-block;
+}
+.row{
+    margin:  auto;
+    justify-content: center;
+}
+.cuadro1{
+    width: 100px;
+    height: 100px;
+   display: block;
+   line-height: 100px;
+   text-align: center;
+   border: 1px solid #cccccc;
+  }
+  .cuadro2{
+    width: 100px;
+    height: 100px;
+   display: block;
+   line-height: 100px;
+   text-align: center;
+   border: 1px solid #cccccc;
+  }
+
+  .b1,.b2,.b3,.b4,.b5,.b6,.b7,.b8,.b9{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    color: aqua;
+    background-color: black;
+    width: 80px;
+}
