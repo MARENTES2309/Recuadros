@@ -78,9 +78,6 @@ $(document).ready(function(){
         .css({"background-color":"red"})
         .end()
         .eq(63)
-        .css({"background-color":"red"})
-        .end()
-        .eq(64)
         .css({"background-color":"red"});
     })
     $(".b3").click(function(){
